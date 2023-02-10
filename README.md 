@@ -1,0 +1,9 @@
+# Installation
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm run start` to start the development server
+4. Open http://localhost:63342/javaspalinakhatsian/panda.html?_ijt=2ohm44pc6lk0tukt6lnvnf8r3b&_ij_reload=RELOAD_ON_SAVE
+in your browser to see the application
+
+# Build
+Run `npm run build` to create a production build.
